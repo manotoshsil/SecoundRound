@@ -1,4 +1,4 @@
-# Sapient
+# Pharmacy Application
 
 Assignment round - 
 ![alt text](https://i.ibb.co/pfq8WpB/ss.png)
