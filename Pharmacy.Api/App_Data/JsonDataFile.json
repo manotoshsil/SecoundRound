@@ -1,0 +1,85 @@
+{
+  "medicineDTO": [
+    {
+      "id": 0,
+      "fullName": "Betadine",
+      "brand": "pfizer",
+      "price": 99.0,
+      "quantity": 3,
+      "expiryDate": "2021-02-26T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 1,
+      "fullName": "Betadine77",
+      "brand": "yyy",
+      "price": 7.0,
+      "quantity": 9,
+      "expiryDate": "2020-10-21T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "fullName": "boroline",
+      "brand": "hb",
+      "price": 88.45,
+      "quantity": 9,
+      "expiryDate": "2020-11-27T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "fullName": "Aspirin",
+      "brand": "pfizer",
+      "price": 88.0,
+      "quantity": 87,
+      "expiryDate": "2020-12-04T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "fullName": "Injection",
+      "brand": "Nokia",
+      "price": 33.0,
+      "quantity": 54,
+      "expiryDate": "2020-11-20T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "fullName": "Testt12",
+      "brand": "Brand2",
+      "price": 2.0,
+      "quantity": 4,
+      "expiryDate": "2020-11-19T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "fullName": "India",
+      "brand": "pfizer",
+      "price": 33.0,
+      "quantity": 4,
+      "expiryDate": "2020-10-31T00:00:00",
+      "notes": "mmmm"
+    },
+    {
+      "id": 7,
+      "fullName": "znnXZ",
+      "brand": "pfizer",
+      "price": 8.0,
+      "quantity": 234,
+      "expiryDate": "2020-12-18T00:00:00",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "fullName": "Chloroquin",
+      "brand": "mmm",
+      "price": 77.88,
+      "quantity": 77,
+      "expiryDate": "2020-11-13T00:00:00",
+      "notes": ""
+    }
+  ]
+}
